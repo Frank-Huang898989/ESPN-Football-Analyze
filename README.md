@@ -22,7 +22,7 @@
 
  3. Built Logistic model
 
-# [Automize the Excel Report] (https://github.com/FrankDTS/ESPN-Football-Analyze/blob/main/Database%20Merge%20Form.ipynb)
+# [Automize the Excel Report](https://github.com/FrankDTS/ESPN-Football-Analyze/blob/main/Database%20Merge%20Form.ipynb)
   Merge three dataframe create in python
  
 ![](/images/Report1.png)
