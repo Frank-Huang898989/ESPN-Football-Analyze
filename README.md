@@ -8,5 +8,22 @@
 
 # Web Scraping
   1. [From ESPN website grab Football game data](https://www.espn.com/soccer/)
-  2. Choose each League and each game's statistics data 
-  3. sg
+  2. First grab the data first so we can use this data information to automize the grab process
+  
+  ![](/images/1.png)
+  
+  3. Choose each League and each game's statistics data 
+
+# Data Cleaning and Analyze
+ 1. Built dataframe which only foncus on one team. 
+ 2. Made Possion dataframe from the analyze result base on two dataframe for two teams.
+ 
+  ![](/images/Poisson.png)
+
+ 3. Built Logistic model
+
+# Automize the Excel Report
+  Merge three dataframe create in python
+ 
+![](/images/Report1.png)
+![](/images/Report2.png)
