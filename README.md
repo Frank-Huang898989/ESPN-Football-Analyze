@@ -8,4 +8,5 @@
 
 # Web Scraping
   1. [From ESPN website grab Football game data](https://www.espn.com/soccer/)
-  2. 
+  2. Choose each League and each game's statistics data 
+  3. sg
